@@ -15,19 +15,19 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center" style="color: #fff;">hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left" style="color: #fff;">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">- 🚀 Hey, I'm Anmol Srivastava from VIT, pursuing B.Tech in CSE.<br>- 🤖 ML Explorer & Node.js Maestro | 💻 Backend Developer | 🌐 Tech Enthusiast |<br>- 📚 Currently delving into Generative AI<br>- ⚡ Crafting DIY projects in my free time</p>
+<p align="left" style="color: #fff;">- 🚀 Hey, I'm Anmol Srivastava from VIT, pursuing B.Tech in CSE.<br>- 🤖 ML Explorer & Node.js Maestro | 💻 Backend Developer | 🌐 Tech Enthusiast |<br>- 📚 Currently delving into Generative AI<br>- ⚡ Crafting DIY projects in my free time</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left" style="color: #fff;">🛠 Language and tools</h3>
 
 ###
 
@@ -61,16 +61,10 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left" style="color: #fff;">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=its-anmol&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
-###
